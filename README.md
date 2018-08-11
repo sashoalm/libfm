@@ -1,3 +1,12 @@
+# Search by partial match in filenames
+
+Modification to allow you to search by partial match when you start
+typing in PCManFM.
+
+![](demo.gif)
+
+# Original README
+
 Notes for compilation:
 1. This library requires:
    - Libtool.
